@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T23:22:14 IST" name="Suite" finished-at="2023-09-25T23:22:26 IST" duration-ms="11755">
+    <groups>
+    </groups>
+    <test started-at="2023-09-25T23:22:14 IST" name="AdactinTest" finished-at="2023-09-25T23:22:26 IST" duration-ms="11755">
+      <class name="org.test.TestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:21:54 IST" name="setUp" finished-at="2023-09-25T23:22:14 IST" duration-ms="20006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC01()[pri:0, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:14 IST" name="TC01" finished-at="2023-09-25T23:22:15 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method signature="TC02()[pri:1, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:15 IST" name="TC02" finished-at="2023-09-25T23:22:17 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method signature="TC03()[pri:2, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:17 IST" name="TC03" finished-at="2023-09-25T23:22:20 IST" duration-ms="2701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method signature="TC04()[pri:3, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:20 IST" name="TC04" finished-at="2023-09-25T23:22:21 IST" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method signature="TC05()[pri:4, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:21 IST" name="TC05" finished-at="2023-09-25T23:22:26 IST" duration-ms="5276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method signature="TC06()[pri:5, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:26 IST" name="TC06" finished-at="2023-09-25T23:22:26 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.test.TestCase@6bbe85a8]" started-at="2023-09-25T23:22:26 IST" name="tearDown" finished-at="2023-09-25T23:22:26 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.test.TestCase -->
+    </test> <!-- AdactinTest -->
+  </suite> <!-- Suite -->
+</testng-results>
