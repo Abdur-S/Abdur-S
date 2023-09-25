@@ -6,9 +6,9 @@ Selenium-TestNG-Maven-Page Object Model with PageFactory Design Pattern.
 --> with the help of PageFactory class, used annotations @FindBy to find WebElement used initElements method to initialize web elements.
 -->  It helps reduce code duplication and improves test case maintenance
 
- Programming Language --> CoreJAVA
- Build Tool           --> Maven
- FrameWorks           --> Selenium, TestNG, POM(Design Pattern)
+ Programming Language --> CoreJAVA |
+ Build Tool           --> Maven |
+ FrameWorks           --> Selenium, TestNG, POM(Design Pattern) |
  
  
 
